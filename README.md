@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ana123tase DUKUNDABERA aka Boticario!
+- 👋 Hi, I’m Anastase DUKUNDABERA aka Boticario!
 - 👀 I’m interested in Ethical hacking and Pharmacy!
 - 🌱 I’m currently learning Software engineering at ALX and Bachelor of Pharmacy at University of Rwanda
 - 💞️ I’m looking to collaborate on Hacking!
